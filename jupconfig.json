@@ -1,0 +1,166 @@
+[
+  {
+    "pair": "SOL-USDC",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amount": 30000000000, 
+    "priority": 1
+  },    
+  {
+    "pair": "SOL-USDT",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "amount": 30000000000, 
+    "priority": 1
+  },
+  {
+    "pair": "SOL-TRUMP",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "amount": 30000000000, 
+    "priority": 1
+  },{
+    "pair": "SOL-USDC",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amount": 25000000000, 
+    "priority": 1
+  },    
+  {
+    "pair": "SOL-USDT",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "amount": 25000000000, 
+    "priority": 1
+  },
+  {
+    "pair": "SOL-TRUMP",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "amount": 25000000000, 
+    "priority": 1
+  },{
+    "pair": "SOL-USDC",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amount": 20000000000, 
+    "priority": 1
+  },    
+  {
+    "pair": "SOL-USDT",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "amount": 20000000000, 
+    "priority": 1
+  },
+  {
+    "pair": "SOL-TRUMP",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "amount": 20000000000, 
+    "priority": 1
+  },{
+    "pair": "SOL-USDC",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "amount": 15000000000, 
+    "priority": 1
+  },    
+  {
+    "pair": "SOL-USDT",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+    "amount": 15000000000, 
+    "priority": 1
+  },
+  {
+    "pair": "SOL-TRUMP",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+    "amount": 15000000000, 
+    "priority": 1
+  },{
+      "pair": "SOL-USDC",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": 5000000000, 
+      "priority": 1
+    },    
+    {
+      "pair": "SOL-USDT",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "amount": 5000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-TRUMP",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "amount": 5000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-arc",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "amount": 5000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-Fartcoin",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "amount": 5000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-PENGU",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "amount": 5000000000, 
+      "priority": 1
+    },
+   {
+      "pair": "SOL-USDC",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+      "amount": 10000000000, 
+      "priority": 1
+    },    
+    {
+      "pair": "SOL-USDT",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
+      "amount": 10000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-TRUMP",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
+      "amount": 10000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-arc",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "61V8vBaqAGMpgDQi4JcAwo1dmBGHsyhzodcPqnEVpump",
+      "amount": 10000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-Fartcoin",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+      "amount": 10000000000, 
+      "priority": 1
+    },
+    {
+      "pair": "SOL-PENGU",
+      "inputMint": "So11111111111111111111111111111111111111112",
+      "outputMint": "2zMMhcVQEXDtdE6vsFS7S7D5oUodfJHE8vd1gnBouauv",
+      "amount": 10000000000, 
+      "priority": 1
+    }
+  ]
