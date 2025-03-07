@@ -1,18 +1,5 @@
 [
-  {
-    "pair": "SOL-USDC",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "amount": 30000000000, 
-    "priority": 1
-  },    
-  {
-    "pair": "SOL-USDT",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "Es9vMFrzaCERmJfrF4H2FYD4KCoNkY11McCe8BenwNYB",
-    "amount": 30000000000, 
-    "priority": 1
-  },
+ 
   {
     "pair": "USDC-SOL",
     "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
