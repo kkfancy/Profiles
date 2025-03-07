@@ -14,9 +14,9 @@
     "priority": 1
   },
   {
-    "pair": "SOL-GROKCoin",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "3MadWqcN9cSrULn8ikDnan9mF3znoQmBPXtVy6BfSTDB",
+    "pair": "USDC-SOL",
+    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
+    "outputMint": "So11111111111111111111111111111111111111112",
     "amount": 30000000000, 
     "priority": 1
   }
