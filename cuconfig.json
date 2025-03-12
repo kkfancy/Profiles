@@ -3,7 +3,6 @@
     {"name": "Obric V2", "pubkey": "obriQD1zbpyLz95G5n7nJe6a4DPjpFwa5XYPoNm113y", "cu": 58120},
     {"name": "Lifinity Swap V2", "pubkey": "2wT8Yq49kHgDzXuPxZSaeLaH1qbmGXtEyPy64bL7aD3c", "cu": 73006},
     {"name": "ZeroFi", "pubkey": "ZERor4xhbUycZ6gb9ntrhqscUcZmAbQDjEAtCf4hbZY", "cu": 60000},
-    {"name": "Openbook V2", "pubkey": "opnb2LAfJYbRMAHHvqjCwQxanZn7ReEHp1k81EohpZb", "cu": 50000},
     {"name": "Raydium Concentrated Liquidity", "pubkey": "CAMMCzo5YL8w4VFF8KVHrK22GGUsp5VTaW7grrKgrWqK", "cu": 120000},
     {"name": "Orca Token Swap V2", "pubkey": "9W959DqEETiGZocYWCQPaJ6sBmUzgfxXfqGeTEdp3aQP", "cu": 60000},
     {"name": "Whirlpools Program", "pubkey": "whirLbMiicVdio4qvUfM5KAg6Ct8VwpYzGff3uctyCc", "cu": 60000},
