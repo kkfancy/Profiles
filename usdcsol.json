@@ -1,9 +1,9 @@
 [
    {
-    "pair": "USDC-TRUMP",
+    "pair": "USDC-SOL",
     "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "amount": 30000000000, 
+    "outputMint": "So11111111111111111111111111111111111111112",
+    "amount": 0, 
     "priority": 1
   },    
   {
@@ -19,10 +19,10 @@
     "amount": 0, 
     "priority": 1
   }, {
-    "pair": "USDC-TRUMP",
+    "pair": "USDC-SOL",
     "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "6p6xgHyF7AeE6TZkSmFsko444wqoP15icUSqi2jfGiPN",
-    "amount": 30000000000, 
+    "outputMint": "So11111111111111111111111111111111111111112",
+    "amount": 0, 
     "priority": 1
   }
   ]
