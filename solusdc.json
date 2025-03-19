@@ -5,25 +5,5 @@
     "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
     "amount": 0, 
     "priority": 1
-  },    
-    {
-    "pair": "SOL-USDC",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "amount": 0, 
-    "priority": 1
-  },  {
-    "pair": "SOL-USDC",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "amount": 0, 
-    "priority": 1
-  },    
-    {
-    "pair": "SOL-USDC",
-    "inputMint": "So11111111111111111111111111111111111111112",
-    "outputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "amount": 0, 
-    "priority": 1
   }
   ]
