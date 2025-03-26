@@ -1,57 +1,57 @@
 [
   {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   },
   {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   },   
     {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   },
   {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   }, 
     {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   },
   {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   }, 
     {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   },
   {
-    "pair": "USDC-Fartcoin",
-    "inputMint": "EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v",
-    "outputMint": "9BB6NFEcjBCtnNLFko2FqVQBq8HHM13kCyYcdQbgpump",
+    "pair": "sol-jelly",
+    "inputMint": "So11111111111111111111111111111111111111112",
+    "outputMint": "FeR8VBqNRSUD5NtXAj2n3j1dAHkZHfyDktKuLXD4pump",
     "amount": 30000000000, 
     "priority": 1
   }
