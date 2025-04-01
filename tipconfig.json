@@ -5,7 +5,7 @@
                 "min": 1,
                 "max": 10,
                 "tipMin": 10,
-                "tipMax": 20,
+                "tipMax": 30,
                 "tips": [
                     120000,
                     140000,
@@ -17,8 +17,8 @@
             {
                 "min": 10,
                 "max": 20,
-                "tipMin": 30,
-                "tipMax": 40,
+                "tipMin": 10,
+                "tipMax": 50,
                 "tips": [
                     300000,
                     350000,
@@ -31,8 +31,8 @@
             {
                 "min": 20,
                 "max": 40,
-                "tipMin": 50,
-                "tipMax": 70,
+                "tipMin": 30,
+                "tipMax": 100,
                 "tips": [
                     600000,
                     700000,
@@ -44,8 +44,8 @@
             {
                 "min": 40,
                 "max": 200,
-                "tipMin": 80,
-                "tipMax": 100,
+                "tipMin": 50,
+                "tipMax": 200,
                 "tips": [
                     1200000,
                     2000000,
