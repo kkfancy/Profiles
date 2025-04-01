@@ -4,8 +4,8 @@
             {
                 "min": 1,
                 "max": 10,
-                "tipMin": 10,
-                "tipMax": 30,
+                "tipMin": 5,
+                "tipMax": 20,
                 "tips": [
                     120000,
                     140000,
@@ -17,8 +17,8 @@
             {
                 "min": 10,
                 "max": 20,
-                "tipMin": 10,
-                "tipMax": 50,
+                "tipMin": 30,
+                "tipMax": 40,
                 "tips": [
                     300000,
                     350000,
@@ -31,8 +31,8 @@
             {
                 "min": 20,
                 "max": 40,
-                "tipMin": 30,
-                "tipMax": 100,
+                "tipMin": 50,
+                "tipMax": 70,
                 "tips": [
                     600000,
                     700000,
@@ -44,8 +44,8 @@
             {
                 "min": 40,
                 "max": 200,
-                "tipMin": 50,
-                "tipMax": 200,
+                "tipMin": 80,
+                "tipMax": 150,
                 "tips": [
                     1200000,
                     2000000,
@@ -106,8 +106,8 @@
             {
                 "min": 1,
                 "max": 10,
-                "tipMin": 10,
-                "tipMax": 30,
+                "tipMin": 5,
+                "tipMax": 20,
                 "tips": [
                     120000,
                     140000,
@@ -119,8 +119,8 @@
             {
                 "min": 10,
                 "max": 20,
-                "tipMin": 10,
-                "tipMax": 50,
+                "tipMin": 30,
+                "tipMax": 40,
                 "tips": [
                     300000,
                     350000,
@@ -133,8 +133,8 @@
             {
                 "min": 20,
                 "max": 40,
-                "tipMin": 30,
-                "tipMax": 100,
+                "tipMin": 50,
+                "tipMax": 70,
                 "tips": [
                     600000,
                     700000,
@@ -146,8 +146,8 @@
             {
                 "min": 40,
                 "max": 200,
-                "tipMin": 50,
-                "tipMax": 200,
+                "tipMin": 80,
+                "tipMax": 150,
                 "tips": [
                     1200000,
                     2000000,
