@@ -3,7 +3,7 @@
         "tipRanges": [
             {
                 "min": 1,
-                "max": 10,
+                "max": 15,
                 "tipMin": 5,
                 "tipMax": 20,
                 "tips": [
@@ -16,8 +16,8 @@
                 ]
             },
             {
-                "min": 10,
-                "max": 20,
+                "min": 15,
+                "max": 30,
                 "tipMin": 30,
                 "tipMax": 40,
                 "tips": [
@@ -30,8 +30,8 @@
                 ]
             },
             {
-                "min": 20,
-                "max": 40,
+                "min": 30,
+                "max": 60,
                 "tipMin": 50,
                 "tipMax": 70,
                 "tips": [
@@ -44,8 +44,8 @@
                 ]
             },
             {
-                "min": 40,
-                "max": 60,
+                "min": 60,
+                "max": 90,
                 "tipMin": 80,
                 "tipMax": 150,
                 "tips": [
@@ -57,7 +57,7 @@
                 ]
             },
             {
-                "min": 60,
+                "min": 90,
                 "max": 200,
                 "tipMin": 80,
                 "tipMax": 150,
