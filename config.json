@@ -1,0 +1,464 @@
+{
+    "pairs": [
+      {
+        "id": 11,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 12,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 13,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 14,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 21,
+        "startAmount": 30,
+        "endAmount": 90,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 22,
+        "startAmount": 30,
+        "endAmount": 90,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 23,
+        "startAmount": 30,
+        "endAmount": 90,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 24,
+        "startAmount": 30,
+        "endAmount": 90,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 31,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 32,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 33,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 34,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 41,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 42,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 43,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 44,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 51,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 52,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 53,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 54,
+        "startAmount": 100,
+        "endAmount": 400,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.95,
+        "flashProb": 1.0
+      },
+      {
+        "id": 61,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 62,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 63,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 64,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 71,
+        "startAmount": 100,
+        "endAmount": 200,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 72,
+        "startAmount": 100,
+        "endAmount": 200,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 73,
+        "startAmount": 100,
+        "endAmount": 200,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 74,
+        "startAmount": 100,
+        "endAmount": 200,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 81,
+        "startAmount": 200,
+        "endAmount": 350,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 82,
+        "startAmount": 200,
+        "endAmount": 350,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 83,
+        "startAmount": 200,
+        "endAmount": 350,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 84,
+        "startAmount": 200,
+        "endAmount": 350,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 0.98
+      },
+      {
+        "id": 91,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 92,
+        "startAmount": 1,
+        "endAmount": 30,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 95,
+        "startAmount": 1,
+        "endAmount": 60,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 96,
+        "startAmount": 1,
+        "endAmount": 60,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 1,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 2,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 3,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 4,
+        "startAmount": 1,
+        "endAmount": 100,
+        "tradingPair": "usdc-trump",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 5,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 6,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 7,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": true,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 8,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 9,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": true,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      },
+      {
+        "id": 10,
+        "startAmount": 1,
+        "endAmount": 40,
+        "tradingPair": "usdc-fartcoin",
+        "useRandomAmounts": false,
+        "useRandomTipAmounts": false,
+        "normalProb": 0.9,
+        "flashProb": 1.0
+      }
+    ]
+  }
