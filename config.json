@@ -18,7 +18,8 @@
       "generateAmountCount": 150,
       "markers": 11,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra01"
     },
     {
       "id": 12,
@@ -38,7 +39,8 @@
       "generateAmountCount": 150,
       "markers": 12,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra01"
     },
     {
       "id": 13,
@@ -58,7 +60,8 @@
       "generateAmountCount": 150,
       "markers": 13,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra01"
     },
     {
       "id": 14,
@@ -78,7 +81,8 @@
       "generateAmountCount": 150,
       "markers": 14,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra01"
     },
     {
       "id": 21,
@@ -98,7 +102,8 @@
       "generateAmountCount": 150,
       "markers": 21,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra02"
     },
     {
       "id": 22,
@@ -118,7 +123,8 @@
       "generateAmountCount": 150,
       "markers": 22,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra02"
     },
     {
       "id": 23,
@@ -138,7 +144,8 @@
       "generateAmountCount": 150,
       "markers": 23,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra02"
     },
     {
       "id": 24,
@@ -158,7 +165,8 @@
       "generateAmountCount": 150,
       "markers": 24,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra02"
     },
     {
       "id": 31,
@@ -178,7 +186,8 @@
       "generateAmountCount": 150,
       "markers": 31,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra03"
     },
     {
       "id": 32,
@@ -198,7 +207,8 @@
       "generateAmountCount": 150,
       "markers": 32,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra03"
     },
     {
       "id": 33,
@@ -218,7 +228,8 @@
       "generateAmountCount": 150,
       "markers": 33,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra03"
     },
     {
       "id": 34,
@@ -238,7 +249,8 @@
       "generateAmountCount": 150,
       "markers": 34,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra03"
     },
     {
       "id": 41,
@@ -257,8 +269,9 @@
       "endIndex": 125,
       "generateAmountCount": 300,
       "markers": 41,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra04"
     },
     {
       "id": 42,
@@ -277,8 +290,9 @@
       "endIndex": 250,
       "generateAmountCount": 300,
       "markers": 42,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra04"
     },
     {
       "id": 43,
@@ -297,8 +311,9 @@
       "endIndex": 375,
       "generateAmountCount": 300,
       "markers": 43,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra04"
     },
     {
       "id": 44,
@@ -317,8 +332,9 @@
       "endIndex": 510,
       "generateAmountCount": 300,
       "markers": 44,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra04"
     },
     {
       "id": 51,
@@ -337,8 +353,9 @@
       "endIndex": 125,
       "generateAmountCount": 300,
       "markers": 51,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra05"
     },
     {
       "id": 52,
@@ -357,8 +374,9 @@
       "endIndex": 250,
       "generateAmountCount": 300,
       "markers": 52,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra05"
     },
     {
       "id": 53,
@@ -377,8 +395,9 @@
       "endIndex": 375,
       "generateAmountCount": 300,
       "markers": 53,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra05"
     },
     {
       "id": 54,
@@ -397,8 +416,9 @@
       "endIndex": 510,
       "generateAmountCount": 300,
       "markers": 54,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra05"
     },
     {
       "id": 61,
@@ -417,8 +437,9 @@
       "endIndex": 125,
       "generateAmountCount": 150,
       "markers": 61,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra06"
     },
     {
       "id": 62,
@@ -437,8 +458,9 @@
       "endIndex": 250,
       "generateAmountCount": 150,
       "markers": 62,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra06"
     },
     {
       "id": 63,
@@ -457,8 +479,9 @@
       "endIndex": 375,
       "generateAmountCount": 150,
       "markers": 63,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra06"
     },
     {
       "id": 64,
@@ -477,8 +500,9 @@
       "endIndex": 510,
       "generateAmountCount": 150,
       "markers": 64,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra06"
     },
     {
       "id": 71,
@@ -497,8 +521,9 @@
       "endIndex": 125,
       "generateAmountCount": 150,
       "markers": 71,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra07"
     },
     {
       "id": 72,
@@ -517,8 +542,9 @@
       "endIndex": 250,
       "generateAmountCount": 150,
       "markers": 72,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra07"
     },
     {
       "id": 73,
@@ -537,8 +563,9 @@
       "endIndex": 375,
       "generateAmountCount": 150,
       "markers": 73,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra07"
     },
     {
       "id": 74,
@@ -557,8 +584,9 @@
       "endIndex": 510,
       "generateAmountCount": 150,
       "markers": 74,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra07"
     },
     {
       "id": 81,
@@ -577,8 +605,9 @@
       "endIndex": 125,
       "generateAmountCount": 150,
       "markers": 81,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra08"
     },
     {
       "id": 82,
@@ -597,8 +626,9 @@
       "endIndex": 250,
       "generateAmountCount": 150,
       "markers": 82,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra08"
     },
     {
       "id": 83,
@@ -617,8 +647,9 @@
       "endIndex": 375,
       "generateAmountCount": 150,
       "markers": 83,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra08"
     },
     {
       "id": 84,
@@ -637,8 +668,9 @@
       "endIndex": 510,
       "generateAmountCount": 150,
       "markers": 84,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra08"
     },
     {
       "id": 91,
@@ -658,7 +690,8 @@
       "generateAmountCount": 150,
       "markers": 91,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra09"
     },
     {
       "id": 92,
@@ -678,7 +711,8 @@
       "generateAmountCount": 150,
       "markers": 92,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra09"
     },
     {
       "id": 93,
@@ -698,7 +732,8 @@
       "generateAmountCount": 150,
       "markers": 93,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra09"
     },
     {
       "id": 94,
@@ -718,7 +753,8 @@
       "generateAmountCount": 150,
       "markers": 94,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra09"
     },
     {
       "id": 1,
@@ -738,7 +774,8 @@
       "generateAmountCount": 150,
       "markers": 1,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra11"
     },
     {
       "id": 2,
@@ -758,7 +795,8 @@
       "generateAmountCount": 150,
       "markers": 2,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra11"
     },
     {
       "id": 3,
@@ -778,7 +816,8 @@
       "generateAmountCount": 150,
       "markers": 3,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra11"
     },
     {
       "id": 4,
@@ -798,7 +837,8 @@
       "generateAmountCount": 150,
       "markers": 4,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra11"
     },
     {
       "id": 5,
@@ -818,7 +858,8 @@
       "generateAmountCount": 150,
       "markers": 5,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 6,
@@ -838,7 +879,8 @@
       "generateAmountCount": 150,
       "markers": 6,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 7,
@@ -858,7 +900,8 @@
       "generateAmountCount": 150,
       "markers": 7,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 8,
@@ -878,7 +921,8 @@
       "generateAmountCount": 150,
       "markers": 8,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 9,
@@ -898,7 +942,8 @@
       "generateAmountCount": 150,
       "markers": 9,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 10,
@@ -918,7 +963,8 @@
       "generateAmountCount": 150,
       "markers": 10,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "vultr"
     },
     {
       "id": 15,
@@ -937,8 +983,9 @@
       "endIndex": 125,
       "generateAmountCount": 150,
       "markers": 15,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra21"
     },
     {
       "id": 16,
@@ -957,8 +1004,9 @@
       "endIndex": 250,
       "generateAmountCount": 150,
       "markers": 16,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra21"
     },
     {
       "id": 17,
@@ -977,8 +1025,9 @@
       "endIndex": 375,
       "generateAmountCount": 150,
       "markers": 17,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra21"
     },
     {
       "id": 18,
@@ -997,8 +1046,9 @@
       "endIndex": 510,
       "generateAmountCount": 150,
       "markers": 18,
-      "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanFirstLimit": 2000.0,
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra21"
     },
     {
       "id": 25,
@@ -1018,7 +1068,8 @@
       "generateAmountCount": 150,
       "markers": 25,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra22"
     },
     {
       "id": 26,
@@ -1038,7 +1089,8 @@
       "generateAmountCount": 150,
       "markers": 26,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra22"
     },
     {
       "id": 27,
@@ -1058,7 +1110,8 @@
       "generateAmountCount": 150,
       "markers": 27,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra22"
     },
     {
       "id": 28,
@@ -1078,7 +1131,8 @@
       "generateAmountCount": 150,
       "markers": 28,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra22"
     },
     {
       "id": 35,
@@ -1098,7 +1152,8 @@
       "generateAmountCount": 150,
       "markers": 35,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra12"
     },
     {
       "id": 36,
@@ -1118,7 +1173,8 @@
       "generateAmountCount": 150,
       "markers": 36,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra12"
     },
     {
       "id": 37,
@@ -1138,7 +1194,8 @@
       "generateAmountCount": 150,
       "markers": 37,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra12"
     },
     {
       "id": 38,
@@ -1158,7 +1215,8 @@
       "generateAmountCount": 150,
       "markers": 38,
       "flashLoanFirstLimit": 1500.0,
-      "flashLoanSecondLimit": 10000.0
+      "flashLoanSecondLimit": 10000.0,
+      "remarks": "fra12"
     }
   ]
 }
