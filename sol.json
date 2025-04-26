@@ -51,6 +51,6 @@
         "amount": 30000000000,
         "priority": 1,
         "dex_mode": "dexes",
-        "dex_list": ["ZeroFi", "Meteora DLMM"]
+        "dex_list": ["ZeroFi", "OpenBook V2"]
     }
 ]
