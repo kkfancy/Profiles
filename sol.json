@@ -42,7 +42,7 @@
         "amount": 30000000000,
         "priority": 1,
         "dex_mode": "dexes",
-        "dex_list": ["SolFi","Meteora DLMM"]
+        "dex_list": ["OpenBook V2","Meteora DLMM"]
     },
     {
         "pair": "USDC-POPCAT",
